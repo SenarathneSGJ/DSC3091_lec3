@@ -222,7 +222,7 @@ $$ \hat{p}\pm Z_{\alpha/2}\sqrt{\frac{\hat{p}(1-\hat{p})}{n}}$$
 
 ------------------------------------------------------------------------
 
-**Case 1**: Under non-normality assumption
+**Case 2**: Under non-normality assumption
 
 -   When no assumption is made about data, a bootstrap method is used to obtain confidence intervals for the population variance.
 
