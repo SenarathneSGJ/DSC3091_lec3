@@ -1,5 +1,5 @@
 ---
-title: DSC 3091 \n Advanced Statistics Applications I
+title: DSC 3091- Advanced Statistics Applications I
 subtitle: "Point Estimation and Confidence Intervals"
 author: Dr Jagath Senarathne
 institute: Department of Statistics and Computer Science 
@@ -31,7 +31,7 @@ editor: visual
 |:-------------------------------|:----------------------------|
 | Population mean $\mu$          | Sample mean $\bar{x}$       |
 | Population variance $\sigma^2$ | Sample variance $s^2$       |
-| Population proportion $P$      | Sample proportion $\hat{p}$ |
+| Population proportion $p$      | Sample proportion $\hat{p}$ |
 |                                |                             |
 
 ## Maximum Likelihood Estimators
